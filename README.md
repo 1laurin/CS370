@@ -24,9 +24,9 @@ As a computer scientist, I approach problems systematically and analytically:
 
 1. **Problem Understanding**: Clearly define the problem statement, constraints, and desired outcomes.
 2. **Research and Analysis**: Investigate existing solutions, algorithms, and techniques related to the problem domain.
-3. **Design and Implementation**: Develop computational models, algorithms, and software solutions based on the analysis.
-4. **Testing and Evaluation**: Rigorously test and evaluate the proposed solution, iterating and refining as necessary.
-5. **Communication and Documentation**: Effectively communicate the solution, its implementation, and its implications to relevant stakeholders.
+3. **Design and Implementation**: Develop models, algorithms, and software solutions based on the analysis.
+4. **Testing and Evaluation**: Test and evaluate the proposed solution, iterating and refining as necessary.
+5. **Communication and Documentation**: Communicate the solution, its implementation, and its implications to relevant stakeholders.
 
 **What are my ethical responsibilities to the end user and the organization?**
 
@@ -36,5 +36,5 @@ As a computer scientist, I have ethical responsibilities towards end users and t
 2. **Accessibility and Inclusivity**: Design solutions that are accessible to diverse user groups, promoting inclusivity and addressing potential biases.
 3. **Transparency and Accountability**: Maintain transparency about the capabilities, limitations, and potential impacts of the solutions I create, and take accountability for any unintended consequences.
 4. **Professional Integrity**: Uphold ethical principles, avoid conflicts of interest, and prioritize the well-being of end users and society over personal or organizational gains.
-5. **Continuous Learning and Adaptation**: Stay up-to-date with technological advancements, ethical considerations, and societal impacts to ensure responsible and sustainable development.
+5. **Continuous Learning and Adaptation**: Stay up-to-date with technological advancements and societal impacts to ensure responsible and sustainable development.
 
